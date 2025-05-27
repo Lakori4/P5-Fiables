@@ -1,0 +1,207 @@
+Time resolution is 1 ps
+Error: Sum not 1 for A = 1 B = 0
+Time: 20 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 30 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 30 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 50 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 60 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 60 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 70 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 80 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 90 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 90 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 110 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 120 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 120 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 130 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 140 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 150 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 150 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 170 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 180 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 180 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 190 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 200 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 210 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 210 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 230 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 240 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 240 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 250 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 260 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 270 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 270 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 290 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 300 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 300 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 310 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 320 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 330 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 330 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 350 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 360 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 360 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 370 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 380 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 390 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 390 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 410 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 420 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 420 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 430 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 440 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 450 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 450 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 470 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 480 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 480 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 490 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 500 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 510 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 510 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 530 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 540 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 540 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 550 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 560 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 570 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 570 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 590 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 600 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 600 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 610 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 620 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 630 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 630 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 650 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 660 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 660 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 670 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 680 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 690 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 690 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 710 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 720 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 720 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 730 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 740 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 750 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 750 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 770 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 780 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 780 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 790 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 800 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 810 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 810 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 830 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 840 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 840 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 850 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 860 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 870 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 870 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 890 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: C:/Users/031_svalderramaf/P5-Fiables/P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 900 ns  Iteration: 0  Process: /tb_byteAdder/stimulus 

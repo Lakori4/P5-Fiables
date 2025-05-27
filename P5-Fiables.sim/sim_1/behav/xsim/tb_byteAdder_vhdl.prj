@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../P5-Fiables.srcs/sources_1/imports/RTL/byteAdder.vhd" \
+"../../../../P5-Fiables.srcs/sources_1/imports/RTL/fullAdder.vhd" \
+"../../../../P5-Fiables.srcs/sources_1/imports/RTL/halfAdder.vhd" \
+"../../../../P5-Fiables.srcs/sim_1/imports/Simulation/tb_byteAdder.vhd" \
+
+# Do not sort compile order
+nosort
